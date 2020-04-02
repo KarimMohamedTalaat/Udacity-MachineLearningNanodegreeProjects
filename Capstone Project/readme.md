@@ -1,10 +1,10 @@
-Machine Learning Engineer Nanodegree (Udacity) {.code-line data-line-start="0" data-line-end="1"}
+Machine Learning Engineer Nanodegree (Udacity)
 ==============================================
 
-Capstone Project: Handwritten Arabic character recognition {.code-line data-line-start="1" data-line-end="2"}
+Capstone Project: Handwritten Arabic character recognition
 ----------------------------------------------------------
 
-### Install {.code-line data-line-start="3" data-line-end="4"}
+### Install
 
 This project requires **Python 3.5** or later and the following Python
 libraries installed:
@@ -18,11 +18,11 @@ libraries installed:
 You will also need to have software installed to run and execute a
 [Jupyter Notebook](http://ipython.org/notebook.html).
 
-### Code {.code-line data-line-start="14" data-line-end="15"}
+### Code
 
 A template notebook is provided as `Capstone_Project_HACR.ipynb`.
 
-### Data {.code-line data-line-start="17" data-line-end="18"}
+### Data
 
 The dataset Arabic Handwritten Characters Dataset from Kaggle you can
 find it [here](https://www.kaggle.com/mloey1/ahcd1).
